@@ -3,7 +3,8 @@
 > 注意：文件名不能出现中文！
 
 访问方法：
-- https://raw.staticdn.net/starlight02/assets/main/README.md
+- https://cdn.statically.io/gh/starlight02/assets/main/README.md
+- ~~https://raw.staticdn.net/starlight02/assets/main/README.md~~
 - https://raw.gitmirror.com/starlight02/assets/main/README.md
 - https://cdn.jsdelivr.net/gh/starlight02/assets@main/资源路径
 - https://fastly.jsdelivr.net/gh/starlight02/assets@main/资源路径
